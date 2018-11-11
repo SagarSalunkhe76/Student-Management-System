@@ -21,5 +21,5 @@ Operation :
 
 Adding Student Record : we can add roll no and name of the student.
 View Student Record : We can checked the student data via this tab.
-Update Student Record : if want to uodate the student information we can update it .
+Update Student Record : if want to update the student information we can update it .
 Delete Student Record : Deleting record as per roll number.
